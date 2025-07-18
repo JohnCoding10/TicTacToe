@@ -1,5 +1,8 @@
-# Main
+Tic Tac Toe
 <<<<<<< HEAD
+This is a command line game.
+
+# Main
 Tasks:
 * Import functions from game.py and player.py
 * Set up the game loop
@@ -19,17 +22,4 @@ Tasks:
 Tasks:
 * create player class, behaviours stuff like that
 * create AI class, can be compliacted or simple
-=======
-Starts the game and handles input/output
-Calls from game.py and player.py
 
-# Game
-Manages board
-checks for win
-Handles move validation
-
-# Player
-Defines player types
-Human 
-AI (do we do random or smart moves)
->>>>>>> 06d2de47fd9fe481829dc26c61512f8d4533b7fb
