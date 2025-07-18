@@ -18,7 +18,6 @@ def main():
     # Create players
     player1 = HumanPlayer("Player 1", "X")
     player2 = choose_player("Player 2", "O")
-    # Or use AI: player2 = RandomAI("Computer", "O")
 
     # Start game
     game = TicTacToe(player1, player2)
