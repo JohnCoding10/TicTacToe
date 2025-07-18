@@ -25,9 +25,6 @@ class TicTacToe:
                 print("It's a draw!")
                 break
 
-            # Switch players
-            self.current_player, self.other_player = self.other_player, self.current_player
-
     def check_winner(self, symbol):
         win_conditions = [
             [0, 1, 2], [3, 4, 5], [6, 7, 8],  # rows
